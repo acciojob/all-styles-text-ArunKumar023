@@ -4,12 +4,14 @@
 .container{
 	width: 200px; 
 	background-color: purple;
+	border-left:5px solid green;
+	
 }
-
+div{
+	padding: 10px;		
+}
 h1{
-	font-size: 20px;
-	padding: 10px;
-	border-left: 5px solid green;	
+	font-size: 20px;	
 	color: white;
     text-decoration: underline;	
 }
